@@ -1,4 +1,6 @@
 # Google Foobar
+![Capture](https://user-images.githubusercontent.com/76123658/102495892-a796d080-40b1-11eb-9ff0-1acda5f9e30f.PNG)
+
 ## About
 Google Foobar is a set of programming challenges triggered to the user through certain keywords in Google search. You would be given a time duration to complete each task, ranging from several days to weeks, according to the difficulty level. 
 Before proceeding to the next task, each solution has to pass a set of test cases(including hidden ones) and can be written in either Java or Python. 
