@@ -32,7 +32,7 @@ def solution(entrances,exits,path):
         
     # Edmonds-Karp
     Gf = arbituaryPath.copy() # Initialise residual graph Gf
-    print(Gf)
+    # print(Gf)
     
     queue = [[0]]
     
@@ -42,7 +42,7 @@ def solution(entrances,exits,path):
         augPath = BFS(Gf,queue) # augmenting path found using BFS
         if augPath is None:
             return maxFlow
-        print(augPath)
+        # print(augPath)
         
         ## p refers to an array of weights of edges in augmenting path, edge weight has to be >0 to exist
         p = []  
@@ -50,12 +50,12 @@ def solution(entrances,exits,path):
         for i in range(len(augPath)):
             if i+1 < len(augPath):
                 p.append(Gf[augPath[i]][augPath[i+1]])
-        print(p)
+        # print(p)
         
         ## residual capacity of augmenting path Cf_p
         Cf_p = min(p)  
         maxFlow += Cf_p
-        print(maxFlow)
+        # print(maxFlow)
         for i in range(len(augPath)):
             if i+1 < len(augPath):
                 ## subtract Cf_p from forward edge
