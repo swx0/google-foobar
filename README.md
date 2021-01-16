@@ -9,10 +9,10 @@ There are a total of 5 levels with ascending levels of difficulty. The following
 
 ## Challenge Tasks
 **Level 4**
-- [Free the Bunny Prisoners](https://github.com/swx0/google-foobar/tree/main/Level%204_Free%20the%20Bunny%20Prisoners) - [*Shamir's Secret Sharing*](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing)
-- [Escape Pods](https://github.com/swx0/google-foobar/tree/main/Level%204_Escape%20Pods) - [*Edmonds-Karp Algorithm*](https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm)
+- [Free the Bunny Prisoners](https://github.com/swx0/google-foobar/tree/main/Level%204_Free%20the%20Bunny%20Prisoners)  >>  [*Shamir's Secret Sharing*](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing)
+- [Escape Pods](https://github.com/swx0/google-foobar/tree/main/Level%204_Escape%20Pods)  >>  [*Edmonds-Karp Algorithm*](https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm)
 
 **Level 5**
-- [Expanding Nebula](https://github.com/swx0/google-foobar/tree/main/Level%205_Expanding%20Nebula) - [*Cellular Automaton*](https://en.wikipedia.org/wiki/Cellular_automaton)
+- [Expanding Nebula](https://github.com/swx0/google-foobar/tree/main/Level%205_Expanding%20Nebula)  >>  [*Cellular Automaton*](https://en.wikipedia.org/wiki/Cellular_automaton)
 
 ![end](https://user-images.githubusercontent.com/76123658/102495227-cf396900-40b0-11eb-82be-7cb860891600.PNG)
